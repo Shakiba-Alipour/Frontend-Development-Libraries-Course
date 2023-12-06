@@ -1,4 +1,4 @@
-# Build a Random Quote Machine Project on [FreeCodeCamp](https://www.freecodecamp.org/)
+# Build a Random Quote Machine Project for Frontend Development Libraries Course in [FreeCodeCamp](https://www.freecodecamp.org/)
 This project represents a single webpage which represents random quotes.
 
 ### User Stories:
